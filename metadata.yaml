@@ -1,0 +1,27 @@
+_repo: The-Post-Office-of-India-and-its-Story_45092
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45092-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clarke, Geoffrey
+    alias: Clarke, Geoffrey Rothe
+    deathdate: 1950
+    gutenberg_agent_id: '43095'
+    url: http://www.gutenberg.org/2009/agents/43095
+description: ''
+gutenberg_issued: '2014-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45092'
+  lccn: '96911890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal service -- India'
+title: The Post Office of India and Its Story
+url: http://www.gutenberg.org/ebooks/45092
