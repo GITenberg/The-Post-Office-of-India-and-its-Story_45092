@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43095'
     url: http://www.gutenberg.org/2009/agents/43095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45092#The-Post-Office-of-India-and-its-Story
 gutenberg_issued: '2014-03-09'
 gutenberg_type: Text
 identifiers:
